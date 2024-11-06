@@ -34,4 +34,4 @@ To run this calculator:
    ```bash
    pip install tk
 
-3.Run the project in bash: python calculator.py
+3.Run the project in your IDE (preferably Visual Studio)
